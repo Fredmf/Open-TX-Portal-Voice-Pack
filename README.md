@@ -4,7 +4,7 @@ I changed file locations and maybe some names, so it fits with the OpenTX 2.3.7 
 
 I amplified all sampels by around 7 db to better fit the volume of the original OpenTX Sounds (and they where to quiet)
 
-
+i placed all sounds then where not part of the stock sd into a BONUS folder, you have to place them in the en directory if you want to use them
 
 ## ========== ORIGINAL README ============ ##
 # Open TX Portal Voice Pack #
