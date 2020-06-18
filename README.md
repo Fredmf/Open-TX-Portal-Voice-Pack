@@ -1,3 +1,12 @@
+# About this Fork #
+
+I changed file locations and maybe some names, so it fits with the OpenTX 2.3.7 sd card content for my Jumper T16.
+
+I amplified all sampels by around 7 db to better fit the volume of the original OpenTX Sounds (and they where to quiet)
+
+
+
+## ========== ORIGINAL README ============ ##
 # Open TX Portal Voice Pack #
 This is a complete OpenTX voice pack based on the popular "Portal" game. Every voice in this pack has been adapted to sound like GLADoS, the main antagonist in the Portal series. There are some other lines from other in game characters as well.
 
